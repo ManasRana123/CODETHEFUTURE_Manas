@@ -1,0 +1,54 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    background-color: chocolate;
+   
+}
+.left-column {
+    flex: 1;
+}
+.right-column {
+    flex: 1;
+}
+.container2 {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color: red;
+}
+.column1 {
+    background-color: lightblue;
+}
+.column2 {
+    background-color: lightblue;
+
+}
+.column3 {
+    background-color: lightblue;
+}
+.column4 {
+    background-color: lightblue;
+}
+.column1 {
+    background-color: lightblue;
+}
+.column5 {
+    background-color: lightblue;
+}
+.column1 {
+    background-color: lightblue;
+}
+.column6 {
+    background-color: lightblue;
+}
+.column7 {
+    background-color: lightblue;
+}
+.column8 {
+    background-color: lightblue;
+}

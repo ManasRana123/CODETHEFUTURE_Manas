@@ -1,0 +1,21 @@
+p{
+    color:black;
+    background-color:beige;
+    font:bold;
+    font-style: italic;
+    font-family: fantasy;
+
+}
+a:link{
+    color:red;
+  
+}
+a:hover{
+    color:blue;
+    
+    
+}
+body{
+    background-image:url(https://media.discordapp.net/attachments/1033913494417981552/1097443051191939162/image.png);
+    background-size:cover;
+}
