@@ -1,21 +1,39 @@
-p{
-    color:black;
-    background-color:beige;
-    font:bold;
+body{
+    background-color:antiquewhite;
+}
+h1{
+    color:slategrey;
+    font-family: sans-serif;
+    font-size:75px;
+    font-weight: bold;
     font-style: italic;
-    font-family: fantasy;
-
+    text-align: center;
+}
+p{
+    color:slategrey;
+    font-family: sans-serif;
+    font-size:50px;
+    font-weight: bold;
+    font-style: italic;
+}
+ul{
+    list-style-type:square ;
+    color:slategrey;
+    font-family: sans-serif;
+    font-size:larger;
+    font-weight: bold;
+    font-style: italic;
 }
 a:link{
-    color:red;
-  
+    color:lightskyblue;
 }
 a:hover{
-    color:blue;
-    
-    
+    color:darkslateblue;
 }
-body{
-    background-image:url(https://media.discordapp.net/attachments/1033913494417981552/1097443051191939162/image.png);
-    background-size:cover;
-}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+  }
+  
